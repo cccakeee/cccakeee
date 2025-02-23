@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Social Media
 
 - X/Twitter [CakeTan](https://x.com/tan_coding)
-- JiKe/即刻  [谈小罗Coding]([https://x.com/tan_coding](https://m.okjike.com/users/c2c88889-9c93-41ca-b17f-34e7e36232c1))
+- JiKe/即刻  [谈小罗Coding](https://m.okjike.com/users/c2c88889-9c93-41ca-b17f-34e7e36232c1)
 - Bento [CakeTan](https://bento.me/caketan)
 - Linktr [CakeTan](https://linktr.ee/caketan)
 - [Blog](https://tanxiaoluo.com)
