@@ -28,14 +28,4 @@ Here are some ideas to get you started:
 - [AI Chinese Name](https://aichinesename.com/) - Professional Chinese AI Name Generator
 - [Deepseek Artifacts](https://deepseekartifacts.com/) - AI-Powered React App Generator
 
-## Interesting website
-
-- WebsiteCarbon
- - [https://www.websitecarbon.com/website/deepseekartifacts-com/](https://www.websitecarbon.com/website/deepseekartifacts-com/)
- - [https://www.websitecarbon.com/website/aichinesename-com/](https://www.websitecarbon.com/website/aichinesename-com/)
- - [https://www.websitecarbon.com/website/tanxiaoluo-com/](https://www.websitecarbon.com/website/tanxiaoluo-com/)
-
-
-
-
 
