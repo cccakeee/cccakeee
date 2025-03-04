@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Bento [CakeTan](https://bento.me/caketan)
 - Linktr [CakeTan](https://linktr.ee/caketan)
 - [Blog](https://tanxiaoluo.com)
+- Cal [CakeTan](https://cal.com/caketan)
 
 ## Product
 
