@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 - [AI Chinese Name](https://aichinesename.com/) - Professional Chinese AI Name Generator
 - [Deepseek Artifacts](https://deepseekartifacts.com/) - AI-Powered React App Generator
-- [Theb= Blockchain History](https://blockchainhistory.com/?utm_source=github&utm_medium=social&utm_campaign=web) - the history of blockchain
+- [Blockchain History](https://blockchainhistory.com/?utm_source=github.com&utm_medium=referral&utm_campaign=web) - the history of blockchain
 
 
